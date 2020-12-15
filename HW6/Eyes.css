@@ -1,0 +1,28 @@
+.eye1{
+    height:120px;
+    width:120px;
+    border-radius:50%;
+    border: 3px solid #999;
+    position:relative;
+    float: left;
+    margin-left: 70px;
+}
+
+.dot1, .dot2{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background: black;
+    left: 70px;
+    bottom: 35px;
+    position:absolute;
+}
+
+.eye2{
+    height:120px;
+    width:120px;
+    border-radius:50%;
+    border: 3px solid #999;
+    position:relative;
+    float: left;
+}
